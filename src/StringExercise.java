@@ -1,5 +1,3 @@
-
-
 public class StringExercise {
     public static void main(String[] args) {
 
@@ -11,7 +9,7 @@ public class StringExercise {
         String checkOut = "Check \"this\"out!,\"s inside of \"s!";
         System.out.println(checkOut);
 
-        String windows = "In windows, the main drive is usally C:\\";
+        String windows = "In windows, the main drive is usually C:\\";
         System.out.println(windows);
 
         String backlashes = "I can do backslashes \\, double backslashes \\\\, and the amazing triple backslashes \\\\\\!";
